@@ -61,7 +61,7 @@ As Ive mentioned this project is still a little split between two visions, but o
 `_What should be easy to do in this language? What should be possible, but
 difficult? What should be impossible or very difficult?_`
 
-I went into this in depth in some of the earlier examples (specificaly *Why a language*) but I can elaborate slightly. The most basic thing with always be "I roll 1d12) where the dice number and size can be adjusted. These kind of implementations will be simple. The goal is then that each program should not be more complex then describing how you rolled a die to friend. For example, "I rolled a 1d20 and added 10. I got a critical success so I do double damage" should evaluate to about 2 lines of code in the DSL <ideally>.
+I went into this in depth in some of the earlier examples (specificaly *Why a language*) but I can elaborate slightly. The most basic thing with always be "I roll 1d12) where the dice number and size can be adjusted. These kind of implementations will be simple. The goal is then that each program should not be more complex then describing how you rolled a die to friend. For example, "I rolled a 1d20 and added 10. I got a critical success so I do double damage" should evaluate to about 2 lines of code in the DSL /<ideally/>.
   
  Something impossible would include anything that includes *not* a dice. While I can obviously account for nontraditional dice (1d2, 1d13, 1d57) and also allow maybe defining dice sides. (so like maybe you could define a d6 to have 1, 1, 1, 5, 6 ,7 on each side without just doing if statements for each result). But anything that cannot be isomorphically matched to a dice will not be possible. (Consider systems like decks of card that theoretically could be matched to a d52, but realistically just wont be.) 
 
@@ -71,6 +71,11 @@ I went into this in depth in some of the earlier examples (specificaly *Why a la
 aren't and conjecture why not. If so, describe them and provide links. How well
 do they address the need? Are there any particularly admirable qualities of the
 language? Are there parts of the language you think could be improved?_`
+
+I recently found https://anydice.com/ Anydice. Which is a system very similar to what I pitched initially (ie outputing graphs of expected value). However I found anydice to be (outside of the simple case) very optuse and badly documented. No offence to the creator, as the actual DSL is actually quite good, the usability and intuitivity could be improved (which I will try to do). Im sure their are other similar DSL's in the dice domain space. I think they address the need well, but are closer to (here is a list of commands) then actual system that can be experimented and evolved with. 
+
+It did however, revisiting it now, remind me of exploding dice. An exploding dice will reroll and add itself if it rolls a maximum value. 
+
 
 ## The Project
 
