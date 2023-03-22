@@ -18,10 +18,24 @@ like to work on, as part of your project (for example, other things related to D
 you have come across, or topics from other classes)? Why are you interested in working on
 these things?_`
 
+After the previous homework, I feel like my main motivation is to see what limits I can push with the setup that we have in scala. We only scratched the surface in making the internal DSL's. With the current project goals, I also think I will be exploring the alternative aswell : External DSL's. So overall the skills I would like to focus on are learning about DSL's and polishing my experience with scala design implementation. In addition, I am excited to try and design this language now that I know the limits of what I can do. Especially now that we can get feedback and work in groups. 
+
+Alternatively I would also be interested in checking out other solutions besides scala aswell. We didnt get too much into it in class, but I am excited to check on it. I think overall a GUI would be wayyyy out of scope for this project, but a solid readme and relatively quick way to use the language is my goal. Python would be my target for an internal DSL since its the simplest one and also commonly used. 
+
 ## Time management plan
 
 `_How do you plan to set aside time outside of class, to work on the project? Are there
 intermediate milestones that you can create, to help you make consistent progress?_`
+
+I have biweekly HW's in my other classes, so ideally, I will have large work weeks and smaller work weeks in tandem with that schedule. So that my scheudle is a little bit easier to manage. I think tuesdays and mondays will be the main days I work. Ideally I maintain a similar schedule to before break with the work being done approximately around wednesday evening. (a little later the the tuesday deadline of the past). 
+
+Some Intermediate milestones are: 
+ - Design And "User Feedback" 
+      - Make the design and see how people feel about it 
+ - implement basic functionality 
+ - Expand basic functionality with more and more tools 
+
+The goal is to keep the system modular and a set of *tools* rather the set of *commands*. Ie give the user the ability to Filter for the largest three values( or something else), rather then making a command `filterHighestThree`. 
 
 ## Teamwork plan
 
@@ -29,6 +43,8 @@ intermediate milestones that you can create, to help you make consistent progres
 collaborating? What part(s) do you think you might do together? What part(s) are you
 considering doing separately? How will you hold one another accountable to make regular
 progress?_`
+
+_n/a_ 
 
 ## Critique plan
 
