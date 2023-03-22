@@ -89,11 +89,18 @@ making language design decisions), as opposed to "systems" aspects of the
 project (e.g., implementing a complicated semantics that doesn't require a lot
 of language design)?_`
 
+I think now that I have clarified some key points this is a great project. Actually working with probabilitys (as long as you have a random package available) is relatively easy. So that means I can focus on language design, and they systems of actually using the language. 
+
 ### Scope
 
 `_How big an idea is this? How ambitious is this project?_`
+
+I would say the project is ambitious (especially if I want to make something like a GUI) but all the ambition is very easy to push as stretch goals. Each step is clearly defined and its very easy to cut or add to those key points. 
 
 ### Benefits and drawbacks
 
 `_Why might this be a good idea for a project? Why might this not be a good idea
 project?_`
+
+Pros: I actually enjoy the project and am excited to work on it. I will use it 
+Cons: it still needs to be strengthened and defined a little bit more. 
