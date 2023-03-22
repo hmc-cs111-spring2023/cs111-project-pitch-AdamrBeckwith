@@ -19,6 +19,10 @@ So the goal is to create a simple DSL that can help TTRPG creators manage dice a
 
 `_Why is a DSL appropriate for your user(s)? How does it address the need?_`
 
+Firstly, I want to clarify this is not a list of commands to roll dice. The goal of the DSL is to create a tool for learning about a system of *dice*. TTRPG creators are always coming up with new ways to use Dice. The classic version (seen in dnd) requires rolling a Die and adding a static bonus amount to the roll and checking to see if its high enough. However, another common Dice succcess system is rolling a bunch of dice and counting the number of dice that roll even numbers which is the number of sucesses. The goal is to make sure they DSL can handle both of these case s and everything in between (and things I havent thought up).
+
+I want to avoid handling these events single target. I want to make sure each system I added is flexible to the user. That is, I want to implement a filtering system rather then a specific command that keeps the highest X values (although most cases would be handled by the second option).  Some of these other systems I want it to handle include rerolling 1's, handeling critical successes and providing expected value. Each of which would be converted to wided more generic systems. 
+
 ### Why you?
 
 `_What excites you about this idea? How did you come up with it?_`
