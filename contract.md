@@ -51,12 +51,27 @@ _n/a_
 `_What will you do to make sure that you can give consistent and actionable feedback to
 other people in the class?_`
 
+I think being invested into 1 to 3 projects rather the new project each feedback would be ideal. That way I can look at the progress being made and already have the context to understand it. I think it would be fun to be involved in the design process aswell. Plus knowing a codebase makes it way easier to spot bugs and implemtation issues. 
+
+In addition, I will focus on providing feedback to people with similar projects to mine (in terms of implementation). Like if someone else does scala external DSL it would be good for me (assuming im doing the same) to provide feedback on their projects. This means I have the sense of context and can look for places I messed up, and possibly see places for myself to improve during the feedback. 
+
 ## Success
 
 `_At the end of the semester, what would you be proud to show or tell someone about your
 project?_`
 
+I would like to have a small gif of using the DSL. Just something clean and clear. If I have that, thats something I can show people and even without computer experience they would understand it. I will also likely add this to my personal github as a personal project I can work on into the future and put on resumes. (assuming what I make is good). 
+
+In the end, Im not going to stress myself out with this project, as I have another one of a similar caliber and clinic all to focus on. But if I can maintain a clear goal and complete it while enjoying the process, even if it isn't extravagent, that would be something I would be proud to complete, and show others. 
+
 ## Assessment
 
 `_Looking over your responses to the previous questions, what would you consider to be an
 "A-" for your project? What would you consider to be an "A"?_`
+
+And a for this project would be to go beyond the "Clear goal" and add more features then I initially intended. Alternatively, it could be polishing the resource to a higher standard. Such as pushing simple usability.  
+
+I mean honestly I would love to just say that my A is completeing the project while maintaining a good work life balance. But thats just the Senior-itis talking 
+
+
+
