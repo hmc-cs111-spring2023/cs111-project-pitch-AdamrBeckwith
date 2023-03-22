@@ -11,6 +11,10 @@ good way to meet their needs._
 experience like now? What would their experience be like if you could help
 them?_`
 
+The project would serve *me* specifically. Thats only partially a joke. Specifically, I want to serve TTRPG Creators. In TTRPG it is very common to use the randomness of dice to simulate chances of successs. Of course a key part of making these systems is making sure the statistics actually work towards the creators expectations. However, expectation and reality with Dice are almost never in tandem. (as a math major) I regularly see Tabletop games that have players roll 2d6, only to build their systems around the expectation tthat 2,3...12 all appear equally. (Which it very very much doesnt). This tool will help users avoid this problem. 
+
+So the goal is to create a simple DSL that can help TTRPG creators manage dice and statistics. There are two versions of this DSL. One is implemented as part of some kind of online battlemap service like Roll20 or FantasyGrounds, which allows user to create macros for dice rolls and their outputs. The other is standalone and allows creators to make a simlar dice rolling setup and then converts and generates graphs that shows output. I would love feedback on which of these two options I work on. In the Roll20 Case their will be some design mockups to show how this system work integrate with the current system. In the graphing case, I will try to do some work to make the system statndalone, and usable for the average non-cs person. 
+
 ### Why a language?
 
 `_Why is a DSL appropriate for your user(s)? How does it address the need?_`
