@@ -27,14 +27,22 @@ I want to avoid handling these events single target. I want to make sure each sy
 
 `_What excites you about this idea? How did you come up with it?_`
 
+I am making a tabletop roleplaying game right now... So you can see where the inspiration came from. I am learning alot in the process of making it, specifically on managing statistics and powerscaling. LOTS of spreadsheeting. My main goal is to make this be something *I* use when trying to figure out dice usage and expectations. 
+
 ### Domain
 
 `_Describe the project's domain in five words._`
+
+Tabletop RPG Dice Management and Systems 
 
 ### Interface (syntax)
 
 `_How might the user interact with the language? What does programming look
 like? Why is this the right way to interact with the problem domain?_`
+
+I think this very dependant on the which version of the project I make. If I make an "addition" to another service using a DSL, then actually using it will just be using it through scala but there will be detailed documentation on how you would theoretically use it assuming it was added to the other service. (And of course *why* it should be added) In the standalone case, I think alot of the work will be expirimenting with possible usability implementations (such as python library or a standalone GUI, or command line interface ). 
+
+I think this is the most open ended part of the project for me since the goal is to make something I use. The most likely result is just a README.md document with 1-2 steps to evaluate a file. I will work to make it as simple as possible to run since im lazy. If you have any recommendations I am all ears. 
 
 ### Operation (semantics)
 
